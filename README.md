@@ -11,7 +11,7 @@ Scrapes SSRN Abstracts: first by searching for abstract urls (by JEL code), then
 ## SSRN JEL Codes
 https://papers.ssrn.com/sol3/displayjel.cfm
 
-### Example of Log (Printed to Screen)
+## Example of Log (Printed to Screen)
 ```
 processing G00
 -------------------------
