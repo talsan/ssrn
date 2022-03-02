@@ -3,7 +3,7 @@ Scrapes & Collects SSRN Abstracts
 
 ## Process Summary
 1. `url_collector.py` - scrape abstract url's for a given JEL code, crawling though *only the first 10 pages*
-2. 'url_downloader.py` - download the content of each abstract url
+2. `url_downloader.py` - download the content of each abstract url
 
 ## SSRN JEL Codes
 https://papers.ssrn.com/sol3/displayjel.cfm
