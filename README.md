@@ -9,7 +9,7 @@ Scrapes & Collects SSRN Abstracts
 https://papers.ssrn.com/sol3/displayjel.cfm
 
 ### Example of Log (Printed to Screen)
-'''
+```
 processing G00
 -------------------------
 requested https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?npage=1&form_name=Jel&code=G00&lim=false
@@ -22,4 +22,4 @@ requested https://papers.ssrn.com/sol3/JELJOUR_Results.cfm?npage=2&form_name=Jel
 post-request-sleeping for 2 seconds ... 
 jel_code=G00 | page=2 | 50 papers
 saved json jel=G00__page=2__date=20220301
-'''
+```
