@@ -1,5 +1,7 @@
 # SSRN Abstract Scraper
-Scrapes & Collects SSRN Abstracts
+Scrapes SSRN Abstracts: first by searching for abstract urls (by JEL code), then by downloading contents of those urls
+
+!!! Restricted to the first 10 pages of each JEL Code (500 papers) !!! 
 
 ## Process Summary
 1. `url_collector.py` - scrape abstract url's for a given JEL code, crawling though *only the first 10 pages*
